@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15191f8b-bf91-44ca-973f-8ec3685ecce6" name="Default Changelist" comment="bad words replacement with asterisks with processing script">
-      <change beforePath="$PROJECT_DIR$/mind-your-language-processing.php" beforeDir="false" afterPath="$PROJECT_DIR$/section-10/mind-your-language-processing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mind-your-language.php" beforeDir="false" afterPath="$PROJECT_DIR$/section-10/mind-your-language.php" afterDir="false" />
+    <list default="true" id="15191f8b-bf91-44ca-973f-8ec3685ecce6" name="Default Changelist" comment="changing the structure to directories">
+      <change afterPath="$PROJECT_DIR$/section-10/sort-array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/section-10" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="mind-your-language.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/section-10/mind-your-language.php">
       <CommandLine>
@@ -79,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597129749456</updated>
       <workItem from="1597129752430" duration="1645000" />
-      <workItem from="1597151073104" duration="6692000" />
+      <workItem from="1597151073104" duration="7047000" />
     </task>
     <task id="LOCAL-00001" summary="bad words replacement with asterisks with processing script">
       <created>1597242338034</created>
@@ -88,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597242338034</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changing the structure to directories">
+      <created>1597242786210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597242786210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bad words replacement with asterisks with processing script" />
-    <option name="LAST_COMMIT_MESSAGE" value="bad words replacement with asterisks with processing script" />
+    <MESSAGE value="changing the structure to directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing the structure to directories" />
   </component>
   <component name="WindowStateProjectService">
     <state x="638" y="176" width="700" height="752" key="#PHP" timestamp="1597241377780">
@@ -134,14 +147,15 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="270" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1597220936507" />
-    <state x="669" y="463" width="399" height="149" key="NewPhpFileDialog" timestamp="1597131117232">
-      <screen x="67" y="27" width="1613" height="1023" />
-    </state>
-    <state x="669" y="463" width="399" height="149" key="NewPhpFileDialog/67.27.1613.1023@67.27.1613.1023" timestamp="1597131117232" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597242340819">
+    <state x="759" y="476" width="399" height="149" key="NewPhpFileDialog" timestamp="1597242900840">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1597242340819" />
+    <state x="669" y="463" width="399" height="149" key="NewPhpFileDialog/67.27.1613.1023@67.27.1613.1023" timestamp="1597131117232" />
+    <state x="759" y="476" key="NewPhpFileDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1597242900840" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597242789983">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1597242789983" />
     <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597242057928">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
