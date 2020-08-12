@@ -2,12 +2,14 @@
 <html>
     <head>
         <title>
-            Mind your language
-        </title>
+Mind your language
+</title>
     </head>
     <body>
-        <form action="mind-your-language-processing.php">
-            <input type="text">
+        <form action="mind-your-language-processing.php" method="post">
+            Input text for validation: <input type="text" name="sentence" style="width: 1000px;">
+            <input type="submit" name="submit">
         </form>
     </body>
 </html>
+
